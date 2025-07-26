@@ -25,7 +25,7 @@ With that mission in mind, _this_ is what the past few years have looked like.
 🔬 **Building a novel automation tool** for scoring psychological assessments (KBIT-2) in CMU’s Kid Neuro Lab—combining OpenCV, Tesseract, and Python into a clean GUI that saves hours of manual work and lifts the hidden labor off new researchers.
 
 👉 [See the 3-minute project video here!](https://tinyurl.com/kbit2rapidscore)
-👉 Check out the repository here!
+👉 [Check out the repository here!](https://github.com/pranavirohit/kbit-2-rapid-score)
 
 ---
 ## Scholarship Recipient + Presenter @ Harvard
