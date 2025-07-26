@@ -12,9 +12,9 @@ As they say in Pittsburgh, hey yinz! (Okay that was awful. But regardless, hello
 
 I’m Pranavi Rohit,
 
-🎓 **Electrical & Computer Engineering student at Carnegie Mellon**, proud to be part of one of the top-ranked ECE programs in the country.  
-🧠 **Researcher in CMU’s Kid Neuro Lab**, where I build tools to support cognitive science and developmental research.  
-🤖 **Deep Tech Institute Intern @ RoboPGH**, one of 10 students selected for a cohort exploring robotics, AI, and deep tech through mentorship, site visits, and storytelling workshops.
+- 🎓 **Electrical & Computer Engineering student at Carnegie Mellon**, proud to be part of one of the top-ranked ECE programs in the country.  
+- 🧠 **Researcher in CMU’s Kid Neuro Lab**, where I build tools to support cognitive science and developmental research.  
+- 🤖 **Deep Tech Institute Intern @ RoboPGH**, one of 10 students selected for a cohort exploring robotics, AI, and deep tech through mentorship, site visits, and storytelling workshops.
 
 > I spend hundreds of hours debugging, fueling my caffeine addiction (my drink of choice is toasted chestnut tea 🍵), to design things that make complex systems feel a little more human.
 
@@ -37,7 +37,7 @@ With that mission in mind, _this_ is what the past few years have looked like.
 ## Intern @ Navy Medical Research Command
 🧪 **Researching at the Naval Medical Research Center** (Neurotrauma Dept.), where I studied how blast exposure affects amyloid beta proteins in the brain — a key protein linked to Alzheimer’s. I presented this work at the 2023 Navy STEM Expo, contributing to ongoing research in brain trauma and neurodegeneration.
 
-👉 [Check out my poster here!]
+👉 [Check out my poster here!](https://drive.google.com/file/d/1UyRzwbQNqYZU6Iy-et9Ge4LcAZCfFTgn/view?usp=sharing)
 <!--
 **pranavirohit/pranavirohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
