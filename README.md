@@ -14,7 +14,7 @@ I’m Pranavi Rohit,
 
 - 🎓 **Electrical & Computer Engineering student at Carnegie Mellon**, proud to be part of one of the top-ranked ECE programs in the country.  
 - 🧠 **Researcher in CMU’s Kid Neuro Lab**, where I build tools to support cognitive science and developmental research.  
-- 🤖 **Deep Tech Institute Intern @ RoboPGH**, one of 10 students selected for a cohort exploring robotics, AI, and deep tech through mentorship, site visits, and storytelling workshops.
+- 🤖 **Deep Tech Institute Intern @ Pittsburgh Robotics Networks**, one of 10 students selected for a cohort exploring robotics, AI, and deep tech through mentorship, site visits, and storytelling workshops.
 
 > I spend hundreds of hours debugging, fueling my caffeine addiction (my drink of choice is toasted chestnut tea 🍵), to design things that make complex systems feel a little more human.
 
